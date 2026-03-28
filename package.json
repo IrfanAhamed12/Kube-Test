@@ -1,0 +1,22 @@
+{
+  "name": "kube-test",
+  "version": "1.0.0",
+  "description": "An interactive chatbot that teaches Kubernetes concepts, built as a demonstration of containerization and Kubernetes orchestration patterns.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfanAhamed12/Kube-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IrfanAhamed12/Kube-Test/issues"
+  },
+  "homepage": "https://github.com/IrfanAhamed12/Kube-Test#readme"
+}
