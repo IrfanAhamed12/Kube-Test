@@ -99,3 +99,7 @@ The bot can answer questions about: `pod`, `service`, `deployment`, `replicaset`
 - **ConfigMaps** for non-sensitive configuration
 - **Secrets** for sensitive data
 - **Liveness & Readiness Probes** for health checking
+
+## Live Demo
+
+Interactive course available at: [https://irfanahamed12.github.io/Kube-Test/](https://irfanahamed12.github.io/Kube-Test/)
