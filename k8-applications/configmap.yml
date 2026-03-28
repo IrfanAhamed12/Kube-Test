@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata: 
+  name: kubebot-config
+data:
+  BOT_NAME: "KubeBot"
+  WELCOME_MSG: "Hey there! I'm KubeBot running on Kubernetes. Ask me about pods, services, deployments and more!"
+  APP_ENV: "development"
